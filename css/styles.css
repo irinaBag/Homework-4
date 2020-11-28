@@ -1,0 +1,95 @@
+.logo{ margin-left: 215px;
+width: 145px;
+font-family: Reilway;
+margin-top: 24px;
+height: 31px;
+font-style: normal;
+}
+
+
+span {color: #2196F3;}
+
+li {list-style: none;}
+
+.geroi {background-color: #2F303A;
+height: 600px;
+text-align: center;
+padding-top: 200px;
+
+}
+
+
+
+.geroi-title{size: 44px;
+text-transform: uppercase;
+color: white;
+}
+.knopka{margin-top: 30px;
+background-color: blue;
+color: white;
+width: 200px;
+height: 50px;
+}
+
+.proekt-link{width: 270px;
+margin-left: 30px ;}
+
+.menu{ display: flex;}
+
+.links{display: flex;
+    }
+.nav{margin-left: 32px;}
+
+  .paragraph{text-align: center;
+text-transform: uppercase;
+margin-top: 100px;
+ font-weight: bold;}
+
+ .adrec{display: flex;
+}
+.adrec-link{
+    margin-left: 32px;}
+   
+    .navigac{display: flex;}
+    a{text-decoration-line: none;}
+   
+    .photo{margin-left: 80px;
+      margin-right: 30px;
+    width: 370px;
+  height: 294px;}
+ 
+  .cont{
+    display: flex;
+  }
+  .contener{height: 648px;
+  background-color: gainsboro;}
+  .par{ padding: 94px;
+  text-align: center;
+  font-weight: 700;
+height: 42px;}
+
+.ph{height: 260px;
+padding-left: 1px;}
+
+.p{ padding: 275px;
+padding-top: 300px;
+padding-left: 1px;}
+
+.comanda-link{background-color:#FFFFFF;
+;
+margin-left: 30px;}
+
+.comanda{
+background-color: #F5F4FA;}
+.comanda-k{display: flex;}
+
+.comanda-text{text-align: center;}
+
+.heroi{height: 252px;
+background-color:  #2F303A;}
+.web{color:#2196F3 ;
+padding-left: 215px;}
+.frr{color: whitesmoke;}
+.per{height:20px;
+padding-left: 215px;
+color: whitesmoke;}
